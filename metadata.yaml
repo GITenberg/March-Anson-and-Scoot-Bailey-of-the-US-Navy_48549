@@ -1,15 +1,21 @@
 _repo: March-Anson-and-Scoot-Bailey-of-the-US-Navy_48549
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Vallely, Henry E.
     gutenberg_agent_id: '44247'
     url: http://www.gutenberg.org/2009/agents/44247
+covers:
+- cover_type: archival
+  image_path: 48549-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, Gregory
     gutenberg_agent_id: '44851'
     url: http://www.gutenberg.org/2009/agents/44851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48549#March-Anson-and-Scoot-Bailey-of-the-US-Navy
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
